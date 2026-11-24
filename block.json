@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "ccd-livestreams/grid",
+	"title": "Livestreams grid",
+	"category": "widgets",
+	"icon": "video-alt3",
+	"description": "The livestreams from the last two weeks, two per row, each with its thumbnail and a linked caption.",
+	"keywords": [ "livestream", "youtube", "video", "service" ],
+	"textdomain": "ccd-livestreams",
+	"supports": {
+		"html": false,
+		"align": false
+	},
+	"editorScript": "ccd-ls-block-editor"
+}

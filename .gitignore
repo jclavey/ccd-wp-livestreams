@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+*.pdf
+
+# Local Claude Code notes.
+/.claude/
